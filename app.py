@@ -5,7 +5,7 @@ app = Flask(__name__)
 # Conjunto de dados de filmes
 filmes = [
     {"nome": "Mad Max", "genero": "Ação"},
-    {"nome": "Veloses e furiosos", "genero": "Ação"},
+    {"nome": "Velozes e furiosos", "genero": "Ação"},
     {"nome": "Toy Story", "genero": "Comédia"},
     {"nome": "Gente Grande", "genero": "Comédia"},
     {"nome": "Invocação do Mal", "genero": "Terror"},
